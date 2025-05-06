@@ -1,4 +1,5 @@
-💬 Whatsza – A Powerful WhatsApp CRM SaaS (Whaticket Alternative) 🚀
+## 💬 Whatsza – A Powerful WhatsApp CRM SaaS (Whaticket Alternative) 🚀
+
 Launch your own WhatsApp CRM and Automation Platform with Whatsza – the complete, white-label SaaS solution that works right out of the box.
 Whether you're an agency, freelancer, or entrepreneur, Whatsza gives you the power to offer professional WhatsApp marketing services like bulk messaging, chatbot automation, multi-user dashboards, and API access.
 
