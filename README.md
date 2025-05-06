@@ -56,10 +56,9 @@ You're not just buying a script—you're investing in a complete business opport
 No monthly fees. No limitations. Full code. Full control.
 
 
-🛒 👉 Buy the Whatsza Script Now
+🛒 👉 Buy the Whatsza Script Now (https://shorturl.at/2tdt4)
 Take the shortcut to launching your own SaaS product and start selling WhatsApp automation services today.
 
-📥 DM or email sales@whatsza.com to get the script instantly.
 🌐 Live demo on https://whatsza.com
 
 🛠 Need Help Installing It?
